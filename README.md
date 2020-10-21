@@ -32,7 +32,7 @@
 ## step 4:
 ### RUN THE COMMAND
 
-```python python_rpc_script```
+```python python_rpc_script.py```
 
 ![example](https://raw.githubusercontent.com/krewshul/testering/main/images/example.PNG)
 
