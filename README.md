@@ -38,7 +38,7 @@
 
 
 
-### this will create 2 pages in '/var/www/html/' called 'index.html' and 'index.css'
+### this will create 2 pages in '/var/www/html/' called 'index.html' and 'styles.css'
 
 if wanting to make the page update automatically you can set a crontab timer, or use a blocknotify script in your conf file for it to update every block.  I prefer running it with 
 
